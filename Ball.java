@@ -1,5 +1,3 @@
-package MPAss4;
-
 /**
  * Created by Loewe on 10/22/2016.
  */
