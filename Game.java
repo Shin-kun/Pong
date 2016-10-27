@@ -65,7 +65,6 @@ public class Game extends JPanel {  //instantiating classes
 
     //if the game is over, a Dialog box appears
     public void gameOver() {
-        Sound.UNDTALE.stop();   //background music
         String[] option = {"YES","NO"};
         String disp = "";
         JPanel panel = new JPanel();
@@ -83,7 +82,6 @@ public class Game extends JPanel {  //instantiating classes
         if(again == 0){ //if yes.. resets the score
             racquet1.score1 = 0;
             racquet2.score2 = 0;
-            Sound.UNDTALE.loop();
         } else {
             System.exit(ABORT); //if no exit
         }
@@ -115,7 +113,6 @@ public class Game extends JPanel {  //instantiating classes
         frame.setVisible(true);
 
         game.Instructions();
-        Sound.UNDTALE.loop();   //background music
         while (true) {
                 game.move();
                 game.repaint();
