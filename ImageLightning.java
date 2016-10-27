@@ -1,5 +1,5 @@
 /**
- * Created by Loewe on 10/26/2016.
+ * Created by Michael Loewe Alivio on 10/26/2016.
  */
 import java.awt.*;
 import javax.swing.*;
