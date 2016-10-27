@@ -1,7 +1,5 @@
-package MPAss4;
-
 /**
- * Created by niervin on 10/22/2016.
+ * Created by Loewe on 10/22/2016.
  */
 import java.applet.Applet;
 import java.applet.AudioClip;
