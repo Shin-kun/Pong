@@ -1,5 +1,5 @@
 /**
- * Created by Loewe on 10/21/2016.
+ * Created by Michael Loewe on 10/21/2016.
  */
 
 import java.awt.*;
