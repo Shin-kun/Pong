@@ -2,6 +2,7 @@
 
 The Game is called Pong. 
 This game has two players playing against each other. Like the real life Pingpong, the goal is to score one against your opponent.
+The first one to score 3 points wins the game.
 
 RED: PLAYER 1
       USE LEFT ARROW KEY for LEFT TURN
