@@ -14,4 +14,6 @@ BLUE: PLAYER 2
       
 There us a chance that a lightining would appear in screen. If the ball collides with it, then it would speed up.
 
+JAR File is found in https://drive.google.com/drive/folders/0BzWnJAeyLRkzaUpBU0RaRDJRejA
+
 THAT IS ALL! THANK YOU!
